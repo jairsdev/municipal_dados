@@ -1,4 +1,6 @@
-Mineração dos dados sobre os perfis dos gestores das cidades brasileiras no ano de 2021 de acordo com o IBGE.
+# Perfil dos gestores municipais no Brasil
+
+Mineração dos dados sobre os perfis dos gestores das cidades brasileiras de acordo com os dados mais recentes do IBGE.
 
 Para ter acesso ao projeto é preciso acessar o arquivo municipal_dados.ipynb pelo próprio editor do GitHub ou baixar a versão em HTML.
 
