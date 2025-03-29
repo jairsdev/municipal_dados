@@ -1,6 +1,6 @@
-# Perfil dos gestores municipais no Brasil
+# Perfil dos prefeitos no Brasil
 
-Mineração dos dados sobre os perfis dos gestores das cidades brasileiras de acordo com os dados mais recentes do IBGE.
+Mineração dos dados sobre o perfil dos prefeitos brasileiros de acordo com os dados mais recentes do IBGE.
 
 Para ter acesso ao projeto é preciso acessar o arquivo municipal_dados.ipynb pelo próprio editor do GitHub ou baixar a versão em HTML.
 
